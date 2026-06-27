@@ -1,0 +1,22 @@
+# Tajni i sertifikati - NIKOGASH na github!
+.env
+*.key
+*.crt
+*.srl
+ca.*
+
+# Bazi (lichni podatoci)
+encodings.pickle
+korisnici.json
+otpechatoci.json
+dataset/
+image.jpg
+vnatre_alert.jpg
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store

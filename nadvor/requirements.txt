@@ -1,0 +1,9 @@
+# NADVOR (RPi4) - BEZ face_recognition/dlib! Samo sledi + prakja.
+mfrc522
+rpi-lgpio
+spidev
+RPLCD
+smbus2
+pyserial
+# fusion-hat: SunFounder skripta (ne pip)
+# picamera2, opencv: sistemski na Bookworm (--system-site-packages)

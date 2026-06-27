@@ -1,0 +1,5 @@
+# VNATRE (RPi5) - mozokot. Tuka e teshkото (face recognition).
+face_recognition
+requests
+python-dotenv
+rpi-lgpio
