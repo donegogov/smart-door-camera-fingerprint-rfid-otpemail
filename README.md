@@ -1,3 +1,12 @@
+if you like my work donate some crypto
+
+Bitcoin: bc1p0pmdvk0g86z0apl4l9f0rgymtfvcjtlekkm47hyptl5zf8ask6hqpf82un
+
+Ethereum: 0x4F641266B906AcEA1Ed106FDD50978EE5337e3e7
+
+Solana: 4UCTxasy88uFfBvxVqoLxvh8sPomCSJ1Ljoxbf5Xc1ef
+
+
 # 🔒 Pametna Vrata — Multi-Layer Smart Door Security System
 
 Sistem za pametno zakluchuvanje so **5 sloevi na zashtita**, izgraden na
